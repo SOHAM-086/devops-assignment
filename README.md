@@ -43,7 +43,7 @@ Ensure that the following are installed on your machine:
 3. Monitor the application:
    ###  docker-compose ps
 4. Access the application:
-   ### Visit http://localhost:5000/ to view the Flask app running.
+   ### Visit http://localhost:5000/ to view the Flask app running on your machine.
 
 ☛​̳𝙐​̳𝙨​̳𝙚​̳ ​̳𝙏​̳𝙚​̳𝙧​̳𝙧​̳𝙖​̳𝙛​̳𝙤​̳𝙧​̳𝙢​̳ ​̳𝙛​̳𝙤​̳𝙧​̳ ​̳𝙡​̳𝙤​̳𝙘​̳𝙖​̳𝙡​̳ ​̳𝙞​̳𝙣​̳𝙛​̳𝙧​̳𝙨​̳𝙩​̳𝙧​̳𝙪​̳𝙘​̳𝙩​̳𝙪​̳𝙧​̳𝙚​̳ ​̳𝙥​̳𝙧​̳𝙤​̳𝙫​̳𝙞​̳𝙨​̳𝙞​̳𝙤​̳𝙣​̳𝙞​̳𝙣​̳𝙜 ̳☚
    To automate the provisioning of the Docker environment (Flask app and Redis service), you can use Terraform.
