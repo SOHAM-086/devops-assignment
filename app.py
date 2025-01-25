@@ -21,7 +21,7 @@ def home():
         visit_count=int(visit_count)
 
     app.logger.info(f"Home route accessed, visit count: {visit_count}")
-    return f"Hello, Flask with Redis! This page has been visited {visit_count} times."
+    return f"Hello, Devops Engineer! This page has been visited {visit_count} times. Also LenDenClub is India's largest Peer-to-Peer (P2P) lending platform."
 
 @app.route('/reset')
 def reset_count():
